@@ -1,4 +1,4 @@
-# Tests for `SENG 265`, Assignment #1
+# Tests for `SENG 265`, Assignment 3
 
 * Test 1
     * Input: `one.ics`
